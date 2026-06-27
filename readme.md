@@ -17,3 +17,7 @@ which uses
 how to deploy it 
 
 walkthrough of hash from zero to hero  - how its is made what is it and how it works
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 28, 2026, 01_58_16 AM" src="https://github.com/user-attachments/assets/56d38686-f8c9-4ce2-b3ec-cb3f0b2ad9d2" />
+
