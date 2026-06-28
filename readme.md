@@ -1,4 +1,4 @@
-service file in python ho to make it from 0 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f062e1b-e3d1-49d7-aedc-af588b082f3e" />service file in python ho to make it from 0 
 give me output in these 
 areas
 why it is 
@@ -17,6 +17,8 @@ which uses
 how to deploy it 
 
 walkthrough of hash from zero to hero  - how its is made what is it and how it works
+<img width="1536" height="1024" alt="ChatGPT Image Jun 29, 2026, 02_19_15 AM" src="https://github.com/user-attachments/assets/22464ac1-653f-4a5d-9560-77f965253c68" />
+
 
 
 <img width="1536" height="1024" alt="ChatGPT Image Jun 28, 2026, 01_58_16 AM" src="https://github.com/user-attachments/assets/56d38686-f8c9-4ce2-b3ec-cb3f0b2ad9d2" />
